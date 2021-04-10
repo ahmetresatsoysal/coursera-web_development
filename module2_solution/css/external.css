@@ -20,10 +20,9 @@ section {
   width: 90%;
   position: relative;
   margin-top: 5px;
-  margin-right: 3px;
-  margin-left: 3px;
+  padding-right: 3px;
+  padding-left: 3px;
   font-family: Helvetica;
-  text-align: center;
   color: black;
   float: left;
 }
