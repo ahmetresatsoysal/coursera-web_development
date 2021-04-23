@@ -1,0 +1,50 @@
+#header-nav {
+	background-color: grey;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand {
+	padding-top: 10px;
+	height: 60px;
+	margin-bottom: 0;
+}
+
+.navbar-brand h1 {
+	color: black;
+	margin-bottom: 0;
+	margin-top: 0;
+	position: absolute;
+	left: 30px;
+	top: 10px;
+}
+
+#button1 {
+	top: 10px;
+}
+
+#nav-list {
+	background-color: white;
+	text-align: center;
+	margin-top: 0;
+}
+
+#collapsable-nav {
+	clear: both;
+	background-color: white;
+}
+
+#collapsable-nav li {
+	border: 1px solid;
+}
+
+#main-content {
+	margin-right: 0;
+	margin-left: 0;
+}
+
+.meal-content, .meal-content div{
+	background-color: grey;
+	text-align: center;
+	margin-bottom: 20px;
+}
